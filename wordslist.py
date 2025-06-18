@@ -1,0 +1,10 @@
+words = ("apple","orange","banana","coconut","pineapple","cat", "dog", "lion", "tiger", "elephant", "giraffe", "zebra", "bear", "panda", "kangaroo",
+    "koala", "wolf", "fox", "deer", "monkey", "gorilla", "chimpanzee", "leopard", "cheetah", "jaguar",
+    "rabbit", "squirrel", "otter", "raccoon", "badger", "hedgehog", "moose", "buffalo", "antelope", "reindeer",
+    "horse", "donkey", "camel", "llama", "yak", "cow", "sheep", "goat", "pig", "bat",
+    "whale", "dolphin", "shark", "octopus", "squid", "crab", "lobster", "seal", "walrus", "penguin",
+    "eagle", "hawk", "falcon", "owl", "parrot", "pigeon", "sparrow", "swan", "duck", "goose",
+    "chicken", "rooster", "turkey", "peacock", "flamingo", "ostrich", "emu", "platypus", "beaver", "armadillo",
+    "porcupine", "sloth", "anteater", "meerkat", "mongoose", "hyena", "wildcat", "cougar", "panther", "bobcat",
+    "orca", "manatee", "narwhal", "stingray", "seahorse", "starfish", "coral", "jellyfish", "lizard", "gecko",
+    "chameleon", "iguana", "crocodile", "alligator", "frog", "toad", "newt", "salamander", "snail", "worm")
